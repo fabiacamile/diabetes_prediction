@@ -1,4 +1,4 @@
-# Diabetes Prediction
+# Predição de Diabetes
 
 **Introdução**
 
